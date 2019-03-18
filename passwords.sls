@@ -1,1 +1,1 @@
-windows_localadmin: Temp1@3Password
+windows_localadmin: New1@3Password

@@ -1,0 +1,1 @@
+windows_localadmin: Temp1@3Password
